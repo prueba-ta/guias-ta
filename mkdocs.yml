@@ -4,7 +4,7 @@ site_description: Esquemas de publicación de Transparencia Activa del Gobierno 
 site_author: Dirección General de Seguimiento de Organismos de Control y Acceso a la Información
 repo_url: https://github.com/transparenciaba/
 theme:
-  name: null
+  name: amelia
   custom_dir: datosgcba_docs
   
 docs:
