@@ -1,0 +1,53 @@
+site_name: Transparencia Activa
+site_url: https://transparenciaba.github.io/guias-publicacion-ta/
+site_description: Esquemas de publicación de Transparencia Activa del Gobierno de la Ciudad Autónoma de Buenos Aires.
+site_author: Dirección General de Seguimiento de Organismos de Control y Acceso a la Información
+repo_url: https://github.com/transparenciaba/
+theme:
+  name: null
+  custom_dir: datosgcba_docs
+  
+docs:
+  navigation:
+    - title: "Inicio"
+      url: "/"
+    - title: "Institucional"
+      url: "/docs/institucional"
+    - title: "Declaraciones Juradas"
+      url: "/docs/declaraciones-juradas"
+    - title: "Informes de Auditoría"
+      url: "/docs/informes-auditoria"
+    - title: "Presupuesto"
+      url: "/docs/presupuesto"
+    - title: "Nómina de autoridades y personal"
+      url: "/docs/nomina-personal"
+    - title: "Sueldos de Autoridades y Escala Salarial de Personal"
+      url: "/docs/sueldos"
+    - title: "Concursos de Personal"
+      url: "/docs/concursos"
+    - title: "Compras y Contrataciones de Obra Pública"
+      url: "/docs/obra-publica"
+    - title: "Compras y Contrataciones de Bienes y Servicios"
+      url: "/docs/compras-contrataciones-bienes-servicios"
+    - title: "Trámites y Servicios"
+      url: "/docs/tramites-servicios"
+    - title: "Gestión"
+      url: "/docs/gestion"
+    - title: "Normativa"
+      url: "/docs/normativa"
+    - title: "Habilitaciones"
+      url: "/docs/habilitaciones"
+    - title: "Permisos de obra"
+      url: "/docs/permisos"
+    - title: "Concesiones"
+      url: "/docs/concesiones"
+    - title: "Concursos de Personal"
+      url: "/docs/concursos"
+    - title: "Dictámenes Jurídicos e Informes Técnicos"
+      url: "/docs/dictamenes"
+    - title: "Cronogramas"
+      url: "/docs/cronogramas-publicacion"
+    - title: "Orientación"
+      url: "/docs/orientacion"
+      
+
