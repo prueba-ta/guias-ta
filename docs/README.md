@@ -31,3 +31,5 @@ Por cualquier consulta o sugerencia pueden escribir a [transparencia@buenosaires
 
 Prueba 1-
 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/24126491"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/24126491/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
+
